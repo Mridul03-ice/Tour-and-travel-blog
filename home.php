@@ -1,3 +1,4 @@
+<?php include 'config.php' ; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,12 +14,14 @@
 
     <!-- custome css file link -->
 
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css?v=<?=$version?>">
 
 
 </head>
+
+
 <body>
-    
+ 
 <!-- header section start -->
 
 
@@ -50,7 +53,55 @@
 
 
 
+<!-- footer section starts -->
 
+<section  class="footer">
+
+<div  class="box-container">
+
+<div class="box">
+    <h3>quick links</h3>
+    <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
+    <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
+     <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
+    <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
+</div>
+
+
+<div class="box">
+    <h3>extra links</h3>
+    <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
+    <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
+    <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
+    <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
+</div>
+
+
+
+<div class="box">
+    <h3>contact info</h3>
+    <a href="#"> <i class="fas fa-phone"></i> +8801303-579271 </a>
+    <a href="#"> <i class="fas fa-phone"></i> +8801750-861021 </a>
+    <a href="#"> <i class="fas fa-envelope"></i> abdulwahab22400@gmail.com </a>
+    <a href="#"> <i class="fas fa-map"></i> BAUET,Kadirabad Contonment,Natore</a>
+</div>
+
+<div class="box">
+    <h3>follow us</h3>
+    <a href="#"><i class="fab fa-facebook-f"></i> facebook</a>
+    <a href="#"><i class="fab fa-instagram"></i> instagram</a>
+    <a href="#"><i class="fab fa-linkedin"></i> facebook</a>
+</div>
+
+</div>
+
+
+<div class="credit">created by <span>Mridul</span> | all rights reserved!</div>
+
+</section>
+
+
+<!-- footer section ends -->
 
 
 
