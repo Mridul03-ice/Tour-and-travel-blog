@@ -2,7 +2,7 @@
 
 
 :root{
-    --main-color: #8e44ad;
+    --main-color: #aa02f1;
     --black: #222;
     --white: #fff;
     --light-black: #777;
@@ -44,6 +44,28 @@ section{
     padding: 5rem 10%;
 }
 
+.btn{
+    display: inline-block;
+    background: var(--black);
+    margin-top: 1rem;
+    color: var(--white);
+    font-size: 1.7rem;
+    padding: 1rem 3rem;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background: var(--main-color);
+}
+
+.heading-title{
+    text-align: center;
+    margin-bottom: 3rem;
+    font-size: 6rem;
+    text-transform: uppercase;
+    color: var(--black);
+}
+
 .header{
     position: sticky;
     top: 0;
@@ -83,16 +105,104 @@ section{
 
 
 
+.home{
+    padding: 0;
+}
+
+.home .slide{
+    text-align: center;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover !important;
+    background-position: center !important;
+    min-height: 60rem;
+}
+
+
+
+.home .slide .content{
+    width: 85rem;
+} 
+
+
+.home .slide .content span{
+    display: block;
+    font-size: 2.2rem;
+    color: var(--white);
+    padding-bottom: 1rem;
+}
+
+
+
+.home .slide .content h3{
+    font-size: 5vw;
+    color: var(--white);
+    text-transform: uppercase;
+    line-height: 1;
+    text-shadow: var(--text-shadow);
+    padding: 1rem 0;
+}
 
 
 
 
 
 
+.services .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(16rem,1fr));
+    gap: 1.5rem;
+}
 
 
+.services .box-container .box{
+    padding: 2rem 3rem;
+    text-align: center;
+    background: var(--main-color);
+    cursor: pointer;
+}
+
+.services .box-container .box:hover{
+    background-color: var(--black);
+}
+
+.services .box-container .box img{
+    height: 7rem;
+}
+
+.services .box-container .box h3{
+    color: var(--white);
+    font-size: 1.7rem;
+    padding-top: 1rem;
+}
 
 
+.heading{
+    background: url(../img/header1.jpg) no-repeat;
+}
+
+.heading1{
+    background: url(../img/header2.jpg) no-repeat;
+}
+
+.heading2{
+    background: url(../img/header3.jpg) no-repeat;
+}
+
+
+#bg{
+    background: url(../img/homeslide1.jpg) no-repeat;
+}
+
+#bg1{
+    background: url(../img/homeslide2.jpg) no-repeat;
+}
+
+#bg2{
+    background: url(../img/homeslide3.jpg) no-repeat;
+}
 
 
 
@@ -115,10 +225,9 @@ section{
 
 
 .footer{
-    background: url(../img/footer.jpg)  no-repeat;
+    background: url(../img/footer3.jpg)  no-repeat;
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
 }
 
 .footer .box-container{
@@ -136,7 +245,7 @@ section{
 .footer .box-container .box a{
     color: var(--light-white);
     font-size: 1.5rem;
-    padding-bottom: 1rem;
+    padding-bottom: 1.5rem;
     display: block;
 }
 
@@ -158,6 +267,10 @@ section{
     border-top: .1rem solid var(--white);
     font-size: 2rem;
     color: var(--white);
+}
+
+.footer .credit span{
+    color: var(--main-color);
 }
 
 
@@ -231,6 +344,10 @@ section{
 
     html{
         font-size: 50%;
+    }
+
+    .heading-title{
+        font-size: 3.5rem;
     }
 
 }
