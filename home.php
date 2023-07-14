@@ -152,6 +152,106 @@
 
 
 
+<!-- home about section starts -->
+
+
+
+
+<section class="home-about">
+    
+<div class="image">
+    <img src="img/about1.jpg" alt="" />
+</div>
+
+<div class="content">
+    <h3>about us</h3>
+    <p>Welcome, your premier destination for unforgettable travel experiences in Bangladesh. 
+        We are a dedicated team of travel enthusiasts, committed to providing you with exceptional service, personalized 
+        itineraries, and a seamless journey throughout this beautiful country.As a full-service travel agency, 
+        we handle all aspects of your trip, from transportation and accommodation to guided tours and immersive activities. 
+        Rest assured that we collaborate with trusted partners, including reputable hotels, reliable transportation providers,
+        and knowledgeable local guides, to guarantee your comfort, safety, and enjoyment.</p>
+        <a href="about.php" class="btn">read more</a>
+</div>
+
+
+</section>
+
+
+
+
+
+<!-- home about section ends -->
+
+
+
+
+
+
+
+
+
+<!-- home package section starts -->
+
+
+
+
+<section class="home-packages">
+
+ <h1 class="heading-title">our packages</h1>
+
+ <div class="box-container">
+
+     <div class="box">
+        <div class="image">
+            <img src="img/image1.jpg" alt="">
+        </div>
+        <div class="content">
+            <h3>adventure & tour</h3>
+            <p>Embark on a thrilling adventure and explore the diverse landscapes and cultural treasures of Bangladesh.
+                From pristine beaches and lush green hills to ancient archaeological sites and bustling cities, this country 
+                offers a myriad of exciting experiences for adventure enthusiasts and avid explorers.</p>
+                <a href="book.php" class="btn">book now</a>
+        </div>
+     </div>
+
+     <div class="box">
+        <div class="image">
+            <img src="img/img2.jpg" alt="">
+        </div>
+        <div class="content">
+            <h3>adventure & tour</h3>
+            <p>Embark on a thrilling adventure and explore the diverse landscapes and cultural treasures of Bangladesh.
+                From pristine beaches and lush green hills to ancient archaeological sites and bustling cities, this country 
+                offers a myriad of exciting experiences for adventure enthusiasts and avid explorers.</p>
+                <a href="book.php" class="btn">book now</a>
+        </div>
+     </div>
+
+     <div class="box">
+        <div class="image">
+            <img src="img/img3.jpg" alt="">
+        </div>
+        <div class="content">
+            <h3>adventure & tour</h3>
+            <p>Embark on a thrilling adventure and explore the diverse landscapes and cultural treasures of Bangladesh.
+                From pristine beaches and lush green hills to ancient archaeological sites and bustling cities, this country 
+                offers a myriad of exciting experiences for adventure enthusiasts and avid explorers.</p>
+                <a href="book.php" class="btn">book now</a>
+        </div>
+     </div>
+
+ </div>
+
+ <div class="load-more"><a href="package.php" class="btn">load more</a></div>
+
+</section>
+
+
+
+
+<!-- home package section ends -->
+
 
 
 

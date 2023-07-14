@@ -43,7 +43,7 @@
 
 <!-- header section ends -->
 
-<div class="heading2">
+<div class="heading" id="heading2">
     <h1>book now</h1>
 </div>
 

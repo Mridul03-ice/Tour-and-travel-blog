@@ -43,7 +43,7 @@
 
 <!-- header section ends -->
 
-<div class="heading">
+<div class="heading" id="heading">
     <h1>about us</h1>
 </div>
 
