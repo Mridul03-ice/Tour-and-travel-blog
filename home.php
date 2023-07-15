@@ -25,7 +25,7 @@
 
 
 <section class="header">
-    <a href="home.php" class="logo">travel</a>
+    <a href="home.php" class="logo">ToiToi</a>
 
     <nav class="navbar">
         <a href="home.php">home</a>
@@ -251,6 +251,34 @@
 
 
 <!-- home package section ends -->
+
+
+
+<!-- home offer section strats -->
+
+
+
+<section class="home-offer">
+
+
+     <div class="content">
+        <h3>upto 50% off</h3>
+        <p>Attention all travel enthusiasts and adventurers! We are thrilled to announce a limited-time offer 
+            that will make your dream trip to Bangladesh even more irresistible. Prepare yourself for an 
+            unforgettable journey as we present a remarkable 50% discount on our exclusive travel packages.</p>
+            <a href="book.php" class="btn"> book now</a>
+     </div>
+
+
+</section>
+
+
+
+
+<!-- home offer section ends -->
+
+
+
 
 
 

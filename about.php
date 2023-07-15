@@ -26,7 +26,7 @@
 
 
 <section class="header">
-    <a href="home.php" class="logo">travel</a>
+    <a href="home.php" class="logo">ToiToi</a>
 
     <nav class="navbar">
         <a href="home.php">home</a>
@@ -46,6 +46,54 @@
 <div class="heading" id="heading">
     <h1>about us</h1>
 </div>
+
+
+
+<!-- about section starts -->
+
+
+
+<section class="about">
+
+
+    <div class="image">
+        <img src="img/about1.jpg" alt="">
+    </div>
+
+    <div class="content">
+        <h3>why choose us?</h3>
+        <p> With years of experience in the travel industry, our team possesses in-depth knowledge of Bangladesh's hidden gems, iconic landmarks,
+            and off-the-beaten-path destinations. We will curate a personalized itinerary that showcases the very best of this remarkable country, ensuring you have an authentic and enriching experience.</p>
+        <p>We are committed to delivering excellence in every aspect of your trip. From handpicked accommodations to reliable transportation and expert guides, 
+            we only partner with trusted and reputable providers to ensure your comfort, safety, and satisfaction throughout your journey. Rest assured, we strive for nothing less than the highest quality service.</p>
+        
+        <div class="icons-container">
+            <div class="icons">
+                <i class="fas fa-map"></i>
+                <span>top destinations</span>
+            </div>
+            <div class="icons">
+                <i class="fas fa-hand-holding-usd"></i>
+                <span>affordable price</span>
+            </div>
+            <div class="icons">
+                <i class="fas fa-headset"></i>
+                <span>24/7 guide service</span>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+
+
+
+
+
+<!-- about section ends -->
+
+
+
 
 
 

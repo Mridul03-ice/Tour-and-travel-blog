@@ -26,7 +26,7 @@
 
 
 <section class="header">
-    <a href="home.php" class="logo">travel</a>
+    <a href="home.php" class="logo">ToiToi</a>
 
     <nav class="navbar">
         <a href="home.php">home</a>
