@@ -94,6 +94,140 @@
 
 
 
+<!-- review section starts -->
+
+
+
+<section class="reviews">
+
+<h1 class="heading-title">clients review</h1>
+
+    <div class="swiper reviews-slider">
+
+    <div class="swiper-wrapper">
+
+    <div class="swiper-slide slide">
+        <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+        </div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Nulla, animi. Ut suscipit quidem modi deserunt ipsum hic
+             accusamus, neque aperiam accusantium, itaque, unde illo fuga dolor similique aut. Quaerat, sequi?</p>
+             <h3>Alice parker</h3>
+             <span>traveler</span>
+             <img src="img/pic1.jpg" height="150px" width="150px" alt="" >
+    </div>
+
+    <div class="swiper-slide slide">
+        <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+        </div>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+            Quis vero ducimus voluptas animi nihil odio, obcaecati 
+            iure libero, fugit id distinctio a harum, nisi dolorum 
+            excepturi repellendus perferendis omnis ipsum asperiores 
+            corporis sequi ea modi? Consequatur necessitatibus magnam 
+            dignissimos impedit?</p>
+             <h3>john doe</h3>
+             <span>traveler</span>
+             <img src="img/pic2.jpg" height="150px" width="150px" alt="" >
+    </div>
+
+    <div class="swiper-slide slide">
+        <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+        </div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Deleniti sapiente ipsam quos reiciendis incidunt blanditiis
+            ratione! Veritatis, totam sapiente molestiae quisquam ea quae! I
+            usto neque quisquam debitis labore impedit repellendus porro 
+            voluptate odio sint harum?</p>
+             <h3>gigi hadid</h3>
+             <span>traveler</span>
+             <img src="img/pic3.jpg" height="150px" width="150px" alt="" >
+    </div>
+
+    <div class="swiper-slide slide">
+        <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+        </div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Deleniti sapiente ipsam quos reiciendis incidunt blanditiis
+            ratione! Veritatis, totam sapiente molestiae quisquam ea quae! I
+            usto neque quisquam debitis labore impedit repellendus porro 
+            voluptate odio sint harum?</p>
+             <h3>richard jones</h3>
+             <span>traveler</span>
+             <img src="img/pic4.jpg" height="150px" width="150px" alt="" >
+    </div>
+
+    <div class="swiper-slide slide">
+        <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+        </div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Deleniti sapiente ipsam quos reiciendis incidunt blanditiis
+            ratione! Veritatis, totam sapiente molestiae quisquam ea quae! I
+            usto neque quisquam debitis labore impedit repellendus porro 
+            voluptate odio sint harum?</p>
+             <h3>alexa terry</h3>
+             <span>traveler</span>
+             <img src="img/pic5.jpg" height="150px" width="150px" alt="" >
+    </div>
+
+    <div class="swiper-slide slide">
+        <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+        </div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Eaque consequuntur asperiores saepe obcaecati, eveniet
+             laborum. Cumque vero quo nam, animi earum atque nisi 
+             laborum ducimus?</p>
+             <h3>steven gerrad</h3>
+             <span>traveler</span>
+             <img src="img/pic6.jpg" height="150px" width="150px" alt="" >
+    </div>
+
+    </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+
+
+
+
+
+<!-- review section endss -->
+
+
+
+
 
 
 

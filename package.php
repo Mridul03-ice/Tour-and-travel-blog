@@ -52,6 +52,152 @@
 
 
 
+<!-- packages section starts -->
+
+
+
+
+<section class="packages">
+
+     <h1 class="heading-title">top destinations</h1>
+
+     <div class="box-container">
+
+       <div class="box">
+       <div class="image">
+        <img src="img/img9.jpg"  alt="">
+       </div>
+       <div class="content">
+        <h3>Shundarban package</h3>
+        <p>The Sundarbans, the world's largest mangrove forest in 
+            Bangladesh and India, is a UNESCO World Heritage Site 
+            known for its Royal Bengal Tigers, diverse wildlife,
+             and intricate waterways. </p>
+             <a href="book.php" class="btn">book now</a>
+       </div>
+       </div>
+
+       <div class="box">
+       <div class="image">
+        <img src="img/image12.jpg"  alt="">
+       </div>
+       <div class="content">
+        <h3>nilgiri package</h3>
+        <p>Nilgiri, located in Bandarban, Bangladesh, is a 
+            popular tourist destination known for its 
+            breathtaking natural beauty. It offers 
+            stunning panoramic views of the surrounding hills,
+             tea gardens, and cloud-covered landscapes.</p>
+             <a href="book.php" class="btn">book now</a>
+       </div>
+       </div>
+
+       <div class="box">
+       <div class="image">
+        <img src="img/img4.jpg"  alt="">
+       </div>
+       <div class="content">
+        <h3>cox's bazar package</h3>
+        <p>Cox's Bazar, in Bangladesh, is the world's longest natural 
+            sandy beach, stretching over 120 kilometers. It attracts 
+            visitors with its pristine shoreline, azure waters, and 
+            vibrant beach culture. </p>
+             <a href="book.php" class="btn">book now</a>
+       </div>
+       </div>
+
+       <div class="box">
+       <div class="image">
+        <img src="img/img13.jpg"  alt="">
+       </div>
+       <div class="content">
+        <h3>kuakata package</h3>
+        <p>Kuakata, located in Patuakhali, Bangladesh, is a captivating 
+            coastal destination known for its unique charm. It offers 
+            stunning panoramic views of the Bay of Bengal,</p>
+             <a href="book.php" class="btn">book now</a>
+       </div>
+       </div>
+
+       <div class="box">
+       <div class="image">
+        <img src="img/img8.jpg"  alt="">
+       </div>
+       <div class="content">
+        <h3>shadapathor package</h3>
+        <p>shadapathor located in Sunamganj,Bangladesh, is a 
+            district renowned for its natural beauty and water-based 
+            attractions. It is home to the mesmerizing Tanguar Haor,
+             a wetland sanctuary and Ramsar site</p>
+             <a href="book.php" class="btn">book now</a>
+       </div>
+       </div>
+
+       <div class="box">
+       <div class="image">
+        <img src="img/img5.jpg"  alt="">
+       </div>
+       <div class="content">
+        <h3>saint-martin package</h3>
+        <p>Saint Martin's Island, located in the Bay of Bengal,
+             is a picturesque paradise in Bangladesh. With its pristine 
+             sandy beaches, crystal-clear turquoise waters, and vibrant
+              coral reefs, it offers a tranquil escape. </p>
+             <a href="book.php" class="btn">book now</a>
+       </div>
+       </div>
+
+     <div class="box">
+       <div class="image">
+        <img src="img/img7.jpg"  alt="">
+       </div>
+       <div class="content">
+        <h3>kaptai-lake package</h3>
+        <p>Kaptai Lake, situated in the Rangamati district of Bangladesh, 
+            is the country's largest man-made lake. Surrounded by 
+            lush green hills and forests, it offers a serene and 
+            scenic retreat.</p>
+             <a href="book.php" class="btn">book now</a>
+       </div>
+       </div>
+
+       <div class="box">
+       <div class="image">
+        <img src="img/img11.jpg"  alt="">
+       </div>
+       <div class="content">
+        <h3>panam-city package</h3>
+        <p>Panam City, located in Sonargaon, Bangladesh, 
+            is a historic site known for its rich architectural 
+            heritage. It was a prosperous trading center during 
+            the Mughal era. .</p>
+             <a href="book.php" class="btn">book now</a>
+       </div>
+       </div>
+
+       
+         
+
+
+     </div>
+
+
+     <div class="load-more"><span class="btn">load more</span></div>
+
+</section>
+
+
+
+
+
+<!-- packages section ends -->
+
+
+
+
+
+
+
 
 
 

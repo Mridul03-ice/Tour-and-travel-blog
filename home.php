@@ -207,10 +207,14 @@
             <img src="img/image1.jpg" alt="">
         </div>
         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Embark on a thrilling adventure and explore the diverse landscapes and cultural treasures of Bangladesh.
-                From pristine beaches and lush green hills to ancient archaeological sites and bustling cities, this country 
-                offers a myriad of exciting experiences for adventure enthusiasts and avid explorers.</p>
+            <h3>Dhaka package-1</h3>
+            <p>Dhaka, the capital city of Bangladesh, is a 
+                vibrant metropolis that seamlessly blends rich 
+                history, bustling streets, and a lively urban 
+                atmosphere. It is a city of contrasts, where 
+                traditional heritage coexists with modern 
+                developments, offering a unique experience
+                 to visitors.</p>
                 <a href="book.php" class="btn">book now</a>
         </div>
      </div>
@@ -220,10 +224,12 @@
             <img src="img/img2.jpg" alt="">
         </div>
         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Embark on a thrilling adventure and explore the diverse landscapes and cultural treasures of Bangladesh.
-                From pristine beaches and lush green hills to ancient archaeological sites and bustling cities, this country 
-                offers a myriad of exciting experiences for adventure enthusiasts and avid explorers.</p>
+            <h3>Dhaka package-2</h3>
+            <p>Old Dhaka, the historic heart of Bangladesh's capital, 
+                offers a captivating experience with its architectural
+                 wonders, diverse culture, bustling streets, 
+                 religious sites, vibrant festivals, and tantalizing 
+                 street food.</p>
                 <a href="book.php" class="btn">book now</a>
         </div>
      </div>
@@ -233,10 +239,12 @@
             <img src="img/img3.jpg" alt="">
         </div>
         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Embark on a thrilling adventure and explore the diverse landscapes and cultural treasures of Bangladesh.
-                From pristine beaches and lush green hills to ancient archaeological sites and bustling cities, this country 
-                offers a myriad of exciting experiences for adventure enthusiasts and avid explorers.</p>
+            <h3>Old dhaka package</h3>
+            <p>Old Dhaka, the historic heart of Bangladesh's capital, 
+                offers a captivating experience with its architectural
+                 wonders, diverse culture, bustling streets, religious 
+                 sites, vibrant festivals, and tantalizing street food.
+                </p>
                 <a href="book.php" class="btn">book now</a>
         </div>
      </div>

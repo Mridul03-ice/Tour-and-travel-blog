@@ -18,3 +18,36 @@ var swiper = new Swiper(".home-slider", {
       prevEl: ".swiper-button-prev",
     },
 });
+
+var swiper = new Swiper(".reviews-slider", {
+    grabCursor:true,
+    loop:true,
+    autoheight:true,
+    spaceBetween: 20,
+    breakpoints: {
+        0: {
+          slidesPerView: 1,
+        },
+        700: {
+          slidesPerView: 2,
+        },
+        1000: {
+          slidesPerView: 3,
+        },
+      },
+});
+
+
+let loadMoreBtn=document.querySelector('.packages .load-more .btn');
+let currentItem=4;
+
+loadMoreBtn.onclick= () =>{
+    let boxes=[...document.querySelectorAll('.packages .box-container .box')];
+    for (var i= currentItem; i < currentItem + 4; i++){
+        boxes[i].style.display='inline-block';
+    }
+    currentItem+=4;
+    if(currentItem>=boxes.length){
+        loadMoreBtn.style.display='none';
+    }
+}
