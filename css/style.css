@@ -236,7 +236,7 @@ section{
 
 .services .box-container .box:hover{
     background-color: var(--black);
-    transform: translateY(-10px);
+    transform: scale(1.1);
 }
 
 .services .box-container .box img{
@@ -447,7 +447,14 @@ section{
     padding: 2rem;
     border-radius: 10px;
     flex: 1 1 16rem;
+    transition: .5s;
  }
+
+ .about .content .icons-container .icons:hover{
+    transform: scale(1.1);
+    background-color: var(--light-black);
+ }
+
 
  .about .content .icons-container .icons i{
     font-size: 4rem;
@@ -457,7 +464,7 @@ section{
 
  .about .content .icons-container .icons span{
     font-size: 1.5rem;
-    color: var(--light-black);
+    color: var(--black);
     display: block;
  }
 
@@ -579,9 +586,49 @@ section{
 }
 
 
+.booking .book-form{
+    padding: 2rem;
+    background: var(--light-bg);
+    border-radius: 10px;
+}
 
+.booking .book-form .flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
 
+.booking .book-form .flex .inputBox{
+    flex: 1 1 41rem;
+}
 
+.booking .book-form .flex .inputBox input{
+    width: 100%;
+    padding: 1.2rem 1.4rem;
+    font-size: 1.6rem;
+    color: var(--light-black);
+    text-transform: none;
+    margin-top: 1.5rem;
+    border: var(--border);
+}
+
+.booking .book-form .flex .inputBox input:focus{
+    background: var(--black);
+    color: var(--white);
+}
+
+.booking .book-form .flex .inputBox input:focus::placeholder{
+    color: var(--light-white);
+}
+
+.booking .book-form .flex .inputBox span{
+    font-size: 1.5rem;
+    color: var(--light-black);
+}
+
+.booking .book-form .btn{
+    margin-top: 2rem;
+}
 
 
 
@@ -624,6 +671,8 @@ section{
     padding-bottom: 1.5rem;
     display: block;
 }
+
+
 
 .footer .box-container .box a i{
     color: var(--main-color);
@@ -685,6 +734,10 @@ section{
 }
 
 @media (max-width:768px){
+
+    .heading h1{
+        font-size: 4rem;
+    }
 
     #menu-btn{
 
