@@ -70,13 +70,15 @@
             <div class="inputBox">
                 <span>phone :</span>
                 <input type="number" placeholder="enter your number" name="phone">
-            </div><div class="inputBox">
+            </div>
+            <div class="inputBox">
                 <span>address :</span>
                 <input type="text" placeholder="enter your address" name="address">
             </div><div class="inputBox">
                 <span>where to :</span>
                 <input type="text" placeholder="place you want to visit" name="location">
-            </div><div class="inputBox">
+            </div>
+            <div class="inputBox">
                 <span>how many :</span>
                 <input type="number" placeholder="number of guests" name="guests">
             </div>
