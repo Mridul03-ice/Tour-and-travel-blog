@@ -322,6 +322,7 @@ section{
 
 .home-packages{
     background: var(--light-bg);
+    animation:fadeIn .4s linear backwards .2s;
 }
 
 
@@ -475,6 +476,7 @@ section{
 
  .reviews{
     background: var(--light-bg);
+    animation:fadeIn .4s linear backwards .2s;
  }
 
  .reviews .slide{
@@ -522,6 +524,9 @@ section{
  }
 
 
+ .packages{
+    animation:fadeIn .4s linear backwards .2s;
+ }
 
  .packages .box-container{
     display: grid;
